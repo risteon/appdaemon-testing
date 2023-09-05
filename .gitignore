@@ -72,3 +72,5 @@ venv
 # Ruff
 
 .ruff_cache
+
+.coverage
